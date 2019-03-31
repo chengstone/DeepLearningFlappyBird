@@ -1,3 +1,4 @@
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg"></a>
 # Using Deep Q-Network to Learn How To Play Flappy Bird
 
 <img src="./images/flappy_bird_demp.gif" width="250">
